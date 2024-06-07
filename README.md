@@ -1,2 +1,1 @@
-# 15-112-Term-Project
-15-112 Term Project
+Fall 2023 15-112 Term Project - Saarthak Gupta
